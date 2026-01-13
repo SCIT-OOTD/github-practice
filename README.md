@@ -1,8 +1,5 @@
 # 🧮 Java 계산기 - GitHub 협업 연습 프로젝트
 
-![Auto Assign](https://github.com/SCIT-OOTD/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
-![Proof HTML](https://github.com/SCIT-OOTD/demo-repository/actions/workflows/proof-html.yml/badge.svg)
-
 ## 📋 프로젝트 개요
 
 이 프로젝트는 **GitHub 협업 프로그래밍 연습**을 위한 샘플 프로젝트입니다.  
