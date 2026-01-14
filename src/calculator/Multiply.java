@@ -16,6 +16,7 @@ public class Multiply {
      */
     public static double execute(double a, double b) {
         // TODO: 팀원 C가 구현
+        System.out.println("곱하기 기능 구현");
         return a * b;
     }
 }
