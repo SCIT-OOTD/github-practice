@@ -14,7 +14,9 @@ public class Add {
      * @param b 두 번째 숫자
      * @return 덧셈 결과
      */
+
     public static double execute(double a, double b) {
+        System.out.println("a+b");
         // TODO: 팀원 A가 구현
         return a + b;
     }
