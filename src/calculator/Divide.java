@@ -18,7 +18,8 @@ public class Divide {
     public static double execute(double a, double b) {
         // TODO: 팀원 D가 구현
         if (b == 0) {
-            throw new ArithmeticException("0으로 나눌 수 없습니다.");
+            System.out.println("0으로 나눌 수 없습니다");
+          
         }
         return a / b;
     }
