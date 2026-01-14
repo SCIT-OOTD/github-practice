@@ -8,6 +8,8 @@ package calculator;
  */
 public class Subtract {
     
+
+
     /**
      * 두 숫자를 뺍니다.
      * @param a 첫 번째 숫자
@@ -15,7 +17,9 @@ public class Subtract {
      * @return 뺄셈 결과
      */
     public static double execute(double a, double b) {
-        // TODO: 팀원 B가 구현
+        // TODO: 팀원 B가 구현'
+        System.err.println("Subtract.execute 메서드가 아직 구현되지 않았습니다.");
+        System.out.println("팀원 B가 이 부분을 완성해야 합니다.");
         return a - b;
     }
 }
